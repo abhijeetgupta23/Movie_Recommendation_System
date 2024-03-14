@@ -14,7 +14,7 @@ Steps:
 2) Assuming user has rated all movies they watched, Cosine similarity of these movies are calculated w.r.t movie not rated/watched by user
 3) All consine similarities are collated, and top k unwatched movies with highest cosine similarities are returned
 
-<u>Input/Output example :</u>
+<h3> Example : </h3>
 
 User's highest rated movies
 
