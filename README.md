@@ -11,7 +11,7 @@ Code can be found at - https://github.com/abhijeetgupta23/Movie_Recommendation_S
 Steps:
 
 1) For a user, list of all their highest rated movies are found
-2) Assuming user has rated all movies they watched, Cosine similarity of these movies are calculated w.r.t movie not rated/watched by user
+2) Assuming user has rated all movies they watched, Cosine similarity of these movies are calculated w.r.t all movies not rated/watched by user based on other user ratings
 3) All consine similarities are collated, and top k unwatched movies with highest cosine similarities are returned
 
 <h3> Example </h3>
@@ -44,3 +44,5 @@ You might also like :
 - Star Trek III: The Search for Spock (1984)
 - Star Trek IV: The Voyage Home (1986)
 - Mars Attacks! (1996)
+
+We see Star Trek movies being recommended to a user who already watched one of those movies.
