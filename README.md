@@ -16,8 +16,6 @@ Steps:
 
 <h3> Example : </h3>
 
-User's highest rated movies
-
 Since you like :
 
 - Twelve Monkeys (a.k.a. 12 Monkeys) (1995)
