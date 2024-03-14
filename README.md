@@ -45,4 +45,4 @@ You might also like :
 - Star Trek IV: The Voyage Home (1986)
 - Mars Attacks! (1996)
 
-We see Star Trek movies being recommended to a user who already watched one of those movies.
+We see Star Trek movies being recommended to a user who already watched one of those movies, so the recommendations make sense.
