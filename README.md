@@ -6,7 +6,7 @@ This project makes use of Movie Datasets to demonstrate how major organizations 
 
 ## Collaborative Filtering
 
-Code found at - https://github.com/abhijeetgupta23/Movie_Recommendation_System/blob/main/Collaborative_Filtering.ipynb 
+Code can be found at - https://github.com/abhijeetgupta23/Movie_Recommendation_System/blob/main/Collaborative_Filtering.ipynb 
 
 Steps:
 
