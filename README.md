@@ -11,7 +11,7 @@ Code found at - https://github.com/abhijeetgupta23/Movie_Recommendation_System/b
 Steps:
 
 1) For a user, list of all their highest rated movies are found
-2) Assuming user has rated all movies they watched, Cosine similarity of these movies are calculated w.r.t unrated/unwatched movies
+2) Assuming user has rated all movies they watched, Cosine similarity of these movies are calculated w.r.t movie not rated/watched by user
 3) All consine similarities are collated, and top k unwatched movies with highest cosine similarities are returned
 
 Input/Output example :
